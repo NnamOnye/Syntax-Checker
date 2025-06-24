@@ -1,1 +1,1 @@
-# Syntax-Checker
+# C Syntax-Checker
